@@ -1,7 +1,7 @@
-# 📌 Proyecto: Practice2
+# 📌 Proyecto: CAS02
 
 ## 🌟 Descripción
-Practice2 es un proyecto web diseñado con HTML, CSS y JSON. Este sitio ofrece una interfaz interactiva y utiliza recursos visuales para una experiencia atractiva. Su propósito es demostrar el uso de tecnologías web en un entorno estructurado y bien organizado.
+Es un proyecto web diseñado con HTML, CSS y JSON. Este sitio ofrece una interfaz interactiva y utiliza recursos visuales para una experiencia atractiva. Su propósito es demostrar el uso de tecnologías web en un entorno estructurado y bien organizado.
 
 ## 📂 Estructura del Proyecto
 📁 **Raíz del Proyecto**
