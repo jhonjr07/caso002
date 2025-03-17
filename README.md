@@ -31,7 +31,7 @@ Para visualizar este proyecto en tu navegador, sigue estos pasos:
 
 ## 🔗 Enlace al Proyecto
 Puedes acceder al proyecto en línea en el siguiente enlace:
-➡️ **[Enlace al proyecto](#)** *(Reemplaza `#` con tu URL real)*
+➡️ https://jhonjr07.github.io/caso002/
 
 ## 🛠️ Tecnologías Utilizadas
 El proyecto está desarrollado utilizando las siguientes tecnologías:
